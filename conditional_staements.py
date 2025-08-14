@@ -82,4 +82,5 @@
 #     elif(marks>=35):
 #        print("just pass")
 # else:
+
 #     print("you are not qualified")
