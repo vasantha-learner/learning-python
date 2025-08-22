@@ -1,0 +1,23 @@
+# random finction in python     // it is used to generate random float numbet between 0.0 to 1.0
+import random
+print(random.random())
+# uniform()                    //generate a random float value between the specified range
+print(random.uniform(10,20)) 
+# randint()                  //used to get a random integer between the specified range
+print(random.randint(108,205))
+# randrange()                // used to generate random integers in a specified range with a step
+print(random.randrange(1,10,2))
+# choice()
+list1=['green','yellow','black','red']
+print(random.choice(list1))
+# random.choices()           //used to get how many colors u want if k=1,geve one color ,if k=2 give 2 colors randomly
+print(random.choices(list1,k=1))
+# shuffle()               //used to rearranges the elements in a given list
+random.shuffle(list1)
+print(list1)
+# random.sample()              // to get unique elements  print(random.choices(list1,k=1)) -> here we are getting repetitin values so to avoid repetion we use sample()
+print(random.sample(list1,k=2))
+
+
+
+# ///// Math module
