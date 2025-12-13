@@ -1,0 +1,20 @@
+A MAJOR PROJECT REPORT
+On
+ A MACHINE LEARNING APPROACH FOR 
+RAIN FALL ESTIMATOIN 
+INTEGRATING 
+HETEROGENOUS DATA SOURCES
+Submitted by,
+G. DIVYA 19J41A05E1M. NANDINI 19J41A05F2M. REETIKAA REDDY 19J41A05F3S. VAMSHI VARDHAN REDDY 19J41A05G9
+ In partial fulfilment of the requirements for the award of the degree
+Of
+BACHELOR OF TECHNOLOGY
+In
+COMPUTER SCIENCE AND ENGINEERING
+Under the Guidance of
+DR. P. S. R. C. MURTY
+HOD
+ Department of Computer Science and Engineering
+MALLA REDDY ENGINEERING COLLEGE
+(An UGC Autonomous Institution, Approved by AICTE, New Delhi & Affiliated to 
+JNTUH, Hyderabad) Maisammaguda, Secunderabad, Telangana

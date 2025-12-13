@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "vassu",
+        "password": "vasu123",
+        "CCnum": 1234567890,
+        "CClimit": 35000.0,
+        "Outstanding": -3000.0
+    },
+    {
+        "Name": "HarishDev",
+        "password": "harish123",
+        "CCnum": 2345678901,
+        "CClimit": 45000.0,
+        "Outstanding": -20000.0
+    }
+]
